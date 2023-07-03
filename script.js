@@ -10,10 +10,10 @@ function toggleMode() {
   //subistituir a imagem
   if (html.classList.contains("ligth")) {
       // se tiver em ligth mode, adicionar a imagem ligth
-      img.setAttribute("src", "" )
+      img.setAttribute("src", "./Assets/Avatar-ligth-mode.png" )
   } else {
     // se tiver em dark mode, manter a mesma foto
-      img.setAttribute("src", "./assets/avatar.png" )
+      img.setAttribute("src", "./assets/Avatar-dark-mode.png" )
 
 
   } 
