@@ -12,7 +12,7 @@ function toggleMode() {
       // se tiver em ligth mode, adicionar a imagem ligth
       img.setAttribute("src", "" )
   } else {
-    // se tiver sem ligth mode, manter a mesma foto
+    // se tiver em dark mode, manter a mesma foto
       img.setAttribute("src", "./assets/avatar.png" )
 
 
