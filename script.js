@@ -13,9 +13,7 @@ function toggleMode() {
       img.setAttribute("src", "./Assets/Avatar-ligth-mode.png" )
   } else {
     // se tiver em dark mode, manter a mesma foto
-      img.setAttribute("src", "./assets/Avatar-dark-mode.png" )
-
-
+      img.setAttribute("src", "./Assets/Avatar-dark-mode.png" )
   } 
 
   
